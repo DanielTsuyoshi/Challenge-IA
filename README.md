@@ -1,6 +1,6 @@
 # Challenge-IA
 
-## Apresentação de uma versão beta (simples) envolvendo as principais ideias do projeto.
+Apresentação de uma versão beta (simples) envolvendo as principais ideias do projeto.
 
 Duração máxima: 5 min
 
