@@ -1,6 +1,6 @@
 # Challenge-IA
 
-### Como o ChatGpt pode ser usado para auxiliar na nutrição e saúde das pessoas.
+## Como o ChatGpt pode ser usado para auxiliar na nutrição e saúde das pessoas.
 
 Integrantes:
 
